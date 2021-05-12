@@ -1,5 +1,5 @@
 #lang racket
-; time spent: 13 hours
+
 
 (require racket/draw)
 (require colors)
